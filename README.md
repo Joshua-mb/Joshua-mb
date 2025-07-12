@@ -8,7 +8,7 @@ I'm keen to connect with fellow enthusiasts and am **open to internships and col
 
 Outside of coding, you can often find me glued to the screen during race weekends – a true **Formula 1 fanatic**!
 
-
+---
 
 ### 🧰 Languages and Tools
 
