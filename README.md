@@ -1,4 +1,4 @@
-###Joshua Mburu
+### Joshua Mburu
 
 I'm a Computer Science student with a deep-seated passion for Artificial Intelligence and Data Science, especially in the context of sports prediction. Currently, I'm honing my skills in college by building practical tools for students and working on various data prediction projects. I'm always eager to expand my knowledge, with a particular focus on applying AI in business and real-world scenarios. I'm open to internships and collaborations where I can apply what I've learned and grow through new challenges.
 
